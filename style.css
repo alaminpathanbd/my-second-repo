@@ -8,8 +8,11 @@ h2{
     background-color: rgb(117, 110, 93);
     text-align: center;
 }
-
 #abc{
     color: white;
     background-color: rgb(117, 110, 93);
+}
+img{
+    height: 100%;
+    width: 100%;
 }
